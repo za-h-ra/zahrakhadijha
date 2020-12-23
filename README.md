@@ -1,7 +1,7 @@
 # Hello, I'm Zahra!
 
 <!--
-**zahrakhadijha/zahrakhadijha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**zahrakhadijha/zahrakhadijha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 👩🏽‍💻 I'm currently working on a collaborative **Full Stack Project** — ROUTINE
 <br>
