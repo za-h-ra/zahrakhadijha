@@ -3,10 +3,10 @@
 <!--
 **zahrakhadijha/zahrakhadijha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-👩🏽‍💻 I'm currently working on a collaborative **Full Stack Project** — ROUTINE
+👩🏽‍💻 I'm a **Front End Engineer** 
 <br>
-☕️ I'm currently writing about my [virtual coffee conversations](https://dev.to/zahrakhadijha/52-virtual-cups-of-coffee-a-developers-journey-for-navigating-uncertainties-2j01) with individuals from all walks of life.
+☕️ I'm currently working on the **[#100DaysOfCode](https://github.com/zahrakhadijha/100DaysOfCode)** challenge to become a better engineer. 
 <br>
-✨ I'm seeking my first full-time **software engineering** role.
+✨ I'm currently coding in HTML/CSS, JavaScript, React, Styled-Components, and Typescript. 
 <br>
 📧 Please reach me at [@zahrakhadijha](https://twitter.com/zahrakhadijha) on Twitter.
